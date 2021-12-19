@@ -1,4 +1,8 @@
-# Piyush Agrawal
+<h1 align="left"> Piyush Agrawal </h1>
+<p align="left">
+<img src="image.jpg" alt="Piyush Photo" width="400"/>
+</p>
+
 #### DOB : 
 26-12-2002
 
@@ -14,15 +18,15 @@
 
 #### Projects:
 ##### Project 1 : Distance sensor & buzzer with RGB LED and Arduino UNO on Tinkercad
-- [Youtube link of its presentation](https://www.youtube.com/watch?v=nygdd7dUUTI)
+[![Thumbnail 1](t1.jpg)](https://www.youtube.com/watch?v=nygdd7dUUTI)
 ##### Project 2 : Chat GUI 'Sandes' through socket programming in Python
-- [Youtube link of its presentation](https://www.youtube.com/watch?v=M0oTmbXAehE)
+[![Thumbnail 2](t2.jpg)](https://www.youtube.com/watch?v=M0oTmbXAehE)
 ##### Project 3 : Coordinates display on clicking image and sketching line b/w max distance points
-- [Youtube link of its presentation](https://www.youtube.com/watch?v=6DpLvJOfXsI)
+[![Thumbnail 3](t3.jpg)](https://www.youtube.com/watch?v=6DpLvJOfXsI)
 ##### Project 4 : Gaming arena in Python with 4 playable games
-- [Youtube link of its presentation](https://www.youtube.com/watch?v=17BkCsWpFDI)
+[![Thumbnail 4](t4.jpg)](https://www.youtube.com/watch?v=17BkCsWpFDI)
 
-### Social:
+### Reach me at:
 1. [Instagram](https://instagram.com/_piyush_268)
 2. [Github](https://github.com/cacklouncle)
 3. [Mail to](mailto:agrawalpiyushjpr8@gmail.com)
