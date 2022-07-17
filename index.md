@@ -1,7 +1,4 @@
 <h1 align="left"> Piyush Agrawal </h1>
-<p align="left">
-<img src="image.jpg" alt="Piyush Photo" width="400"/>
-</p>
 
 #### DOB : 
 26-12-2002
